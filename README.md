@@ -1,4 +1,4 @@
-### **Material utilizado nos vídeos sobre análise de sentimento no R **
+### Material utilizado nos vídeos sobre análise de sentimento no R 
 
 - Analise de sentimento usando pacote syuzhet
 
