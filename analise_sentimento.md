@@ -1,5 +1,6 @@
 # Material utilizado nos vídeos sobre análise de sentimento no R 
-**Objetivo:** O material foi feito para esclarecer as etapas de analise de sentimento usando pacote syuzhet
+**Objetivo:** 
+-O material foi feito para esclarecer as etapas de analise de sentimento usando pacote syuzhet
 
 ### Neste material você vai ver
 - A base de dados utilizada "Editorial do Globo sobre a reforma da previdência no Brasil em 2018/2019"
