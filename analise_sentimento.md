@@ -6,5 +6,7 @@
 - O texto utilizado traduzido para o inglês 
 - O código com as etapas de análise com os comentários
 
-**Foco:** Na melhoria do entendimento do comportamento, opinião e necessidades dos indivíduos utilizando para isso tecnologias existentes neste caso a de "natural language processing". Ao mesmo tempo permitir que mais pessoas tenham acesso a esse tipo de tecnologia melhorando a produtividade de seus negócios.
+**Foco:** 
+- Na melhoria do entendimento do comportamento, opinião e necessidades dos indivíduos através do uso prático de tecnologias neste caso a de *"natural language processing"*. 
+- Permitir que mais pessoas tenham acesso a esse tipo de tecnologia podendo assim buscar soluções para melhoria de produtividade em seus negócios.
 
