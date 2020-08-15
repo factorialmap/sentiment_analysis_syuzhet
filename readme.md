@@ -1,14 +1,4 @@
-./gh-md-toc ~/factorialmap/sentiment_analysis_syuzhet/readme.md 
 
-Table of Contents
-=================
-
-  * [Dockerfile.vim](#dockerfilevim)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
 
 # Material utilizado nos vídeos sobre análise de sentimento no R 
 **Objetivo:** 
