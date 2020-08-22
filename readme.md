@@ -9,7 +9,7 @@
 ### Por que eu gastaria tempo aprendendo isso?
 - Imagine que eu assista um vídeo no YouTube e queira saber a interpretação e o sentimento das pessoas em relação ao conteúdo baseada nos comentários do vídeo.
 - Imagine que eu tenha dados de central de atendimento sobre meu produto e queira entender qual o sentimento do público em relação aos produtos, serviços e antedimento.
-- Est material foi feito para esclarecer as etapas de analise de sentimento usando pacote syuzhet
+- Este material foi feito para esclarecer as etapas de analise de sentimento no R usando pacote syuzhet
 
 ### Neste material você vai ver:
 - A base de dados utilizada "Editorial do Globo sobre a reforma da previdência no Brasil em 2018/2019"
