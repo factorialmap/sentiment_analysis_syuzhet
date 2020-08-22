@@ -1,12 +1,12 @@
 ## Material utilizado nos vídeos sobre análise de sentimento no R 
 
 ### Conteúdo:
-  * [Objetivo](#Objetivo)
+  * [Por que eu gastaria tempo aprendendo isso?](#Por-que-eu-gastaria-tempo-aprendendo-isso?)
   * [Conteúdo do material](#Neste-material-você-vai-ver)
   * [Foco do material](#Foco)        
   * [Exemplo de práticos ou uso comercial](#Exemplos-práticos-ou-de-uso-comercial)
 
-### Objetivo:
+### Por que eu gastaria tempo aprendendo isso?:
 - O material foi feito para esclarecer as etapas de analise de sentimento usando pacote syuzhet
 
 ### Neste material você vai ver:
